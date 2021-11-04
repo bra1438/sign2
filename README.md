@@ -7,5 +7,4 @@ Dataset Link: https://www.kaggle.com/belalelwikel/asl-and-some-words
 
 2. Gesture_recognition.py uses a CNN to predict words.
 
-![Capture](https://user-images.githubusercontent.com/75773763/140311090-3dd65051-22e6-4610-8cc1-e437f43a787e.JPG)
-![Screenshot 2021-11-04 174320](https://user-images.githubusercontent.com/75773763/140311683-3d17e30a-23e6-4c49-a710-23103f7e3313.png)
+![Capture](https://user-images.githubusercontent.com/75773763/140311090-3dd65051-22e6-4610-8cc1-e437f43a787e.JPG)![Screenshot 2021-11-04 174320](https://user-images.githubusercontent.com/75773763/140311683-3d17e30a-23e6-4c49-a710-23103f7e3313.png)
