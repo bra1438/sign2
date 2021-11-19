@@ -1,4 +1,4 @@
-# Gesture-Recognition
+# Sign-Language-Recognition
 Dataset Link: https://www.kaggle.com/belalelwikel/asl-and-some-words
 1. hand_sysmbols.py uses MediaPipe Hands(https://google.github.io/mediapipe/solutions/hands.html#mediapipe-hands) to predict alphabets.
 
